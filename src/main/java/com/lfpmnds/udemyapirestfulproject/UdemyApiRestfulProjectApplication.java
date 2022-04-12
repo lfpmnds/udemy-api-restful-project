@@ -9,5 +9,4 @@ public class UdemyApiRestfulProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UdemyApiRestfulProjectApplication.class, args);
 	}
-
 }
